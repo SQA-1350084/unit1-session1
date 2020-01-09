@@ -1,0 +1,7 @@
+C:\Users\1350084\Desktop\Unit1-session1\Unit1-session1\obj\Debug\Unit1-session1.csprojAssemblyReference.cache
+C:\Users\1350084\Desktop\Unit1-session1\Unit1-session1\obj\Debug\Unit1-session1.csproj.CoreCompileInputs.cache
+C:\Users\1350084\Desktop\Unit1-session1\Unit1-session1\bin\Debug\Unit1-session1.exe.config
+C:\Users\1350084\Desktop\Unit1-session1\Unit1-session1\bin\Debug\Unit1-session1.exe
+C:\Users\1350084\Desktop\Unit1-session1\Unit1-session1\bin\Debug\Unit1-session1.pdb
+C:\Users\1350084\Desktop\Unit1-session1\Unit1-session1\obj\Debug\Unit1-session1.exe
+C:\Users\1350084\Desktop\Unit1-session1\Unit1-session1\obj\Debug\Unit1-session1.pdb
